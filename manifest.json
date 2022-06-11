@@ -1,7 +1,8 @@
 {
-    "name":"Hello World",
+    "name":"Corgi lover",
     "description":"Print Hello World in the Chrome Console",
     "version":"1.0",
+    "author":"Sicolate",
     "manifest_version":3,
     "action":{
         "default_popup":"popup.html",
